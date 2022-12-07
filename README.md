@@ -1,5 +1,5 @@
 # PyBer_Analysis
-## Revisitng to get reacquainted with the flow of this process
+## Revisiting to get reacquainted with the flow of this process
 
 ## This analysis will address disparities in the ride-sharing data with the city types.
 
