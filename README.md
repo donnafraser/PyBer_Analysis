@@ -1,7 +1,7 @@
 # PyBer_Analysis
 ## Project Overview For Ride Sharing 
 
-## This analysis will address disparities found through analysis of the studies ride-sharing data 
+## This analysis will address disparities found through analysis of the ride-sharing data for company CEO
 
 What we are seeking to provide in our analysis is an overview of ride sharing in a variety of populations and the cost associated in each city. Data was collected throughout numerous cities focusing on different areas we define as urban, suburban, and rural. We are looking to provide useful data for the allocation of drivers and committed resources to increase overall profits.  
 
